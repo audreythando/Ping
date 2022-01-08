@@ -1,5 +1,5 @@
 # Ping coming soon landing page
-Demo:
+Demo: https://audreythando.github.io/Ping/
 Stack:
 - Html + CSS
 - Javascript
